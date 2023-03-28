@@ -20,5 +20,8 @@
     "sass": "^1.60.0",
     "serve": "^14.2.0",
     "typescript": "5.0.2"
+  },
+  "devDependencies": {
+    "@types/styled-components": "^5.1.26"
   }
 }
